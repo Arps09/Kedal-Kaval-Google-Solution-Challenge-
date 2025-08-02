@@ -1,0 +1,4 @@
+libgeos-dev
+proj-bin
+libproj-dev
+python3-dev

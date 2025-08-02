@@ -1,0 +1,25 @@
+# Core Framework
+streamlit==1.32.2
+ultralytics==8.1.0
+
+# Geospatial Stack
+geocoder==1.38.1
+folium==0.14.0
+streamlit-folium==0.13.0
+shapely==2.0.1
+geopy==2.3.0
+
+# Data Processing
+numpy==1.24.4  # Corrected version
+pandas==2.0.3
+Pillow==10.0.1
+
+# Machine Learning
+torch==2.0.1
+torchvision==0.15.2
+
+# Computer Vision
+opencv-python-headless==4.9.0.80
+
+# Visualization
+plotly==5.18.0
